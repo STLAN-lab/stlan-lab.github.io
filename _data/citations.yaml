@@ -1,1 +1,281 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1146/annurev-cellbio-120320-040213
+  title: 'The Organism as the Niche: Physiological States Crack the Code of Adult
+    Neural Stem Cell Heterogeneity'
+  authors:
+  - Zayna Chaker
+  - Eleni Makarouni
+  - Fiona Doetsch
+  publisher: Annual Review of Cell and Developmental Biology
+  date: '2024-10-02'
+  link: https://doi.org/g97drn
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.abo5199
+  title: Pregnancy-responsive pools of adult neural stem cells for transient neurogenesis
+    in mothers
+  authors:
+  - Zayna Chaker
+  - Corina Segalada
+  - Jonas A. Kretz
+  - Ilhan E. Acar
+  - Ana C. Delgado
+  - Valerie Crotet
+  - Andreas E. Moor
+  - Fiona Doetsch
+  publisher: Science
+  date: '2023-11-24'
+  link: https://doi.org/gt4t5k
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2018.12.044
+  title: Single-Cell Analysis of Regional Differences in Adult V-SVZ Neural Stem Cell
+    Lineages
+  authors:
+  - Dogukan Mizrak
+  - Hanna Mendes Levitin
+  - Ana C. Delgado
+  - Valerie Crotet
+  - Jinzhou Yuan
+  - Zayna Chaker
+  - Violeta Silva-Vargas
+  - Peter A. Sims
+  - Fiona Doetsch
+  publisher: Cell Reports
+  date: '2019-01-01'
+  link: https://doi.org/gfs347
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2017.09.058
+  title: "CaMKII\u03B1 Expression Defines Two Functionally Distinct Populations of\
+    \ Granule Cells Involved in Different Types of Odor Behavior"
+  authors:
+  - Sarah Malvaut
+  - Simona Gribaudo
+  - Delphine Hardy
+  - Linda Suzanne David
+  - Laura Daroles
+  - Simon Labrecque
+  - Marie-Anne Lebel-Cormier
+  - Zayna Chaker
+  - "Daniel Cot\xE9"
+  - Paul De Koninck
+  - Martin Holzenberger
+  - Alain Trembleau
+  - Isabelle Caille
+  - Armen Saghatelyan
+  publisher: Current Biology
+  date: '2017-11-01'
+  link: https://doi.org/gcjzxs
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1210/en.2017-00261
+  title: Disrupting IGF Signaling in Adult Mice Conditions Leanness, Resilient Energy
+    Metabolism, and High Growth Hormone Pulses
+  authors:
+  - "Jean-Christophe Fran\xE7ois"
+  - "Saba A\xEFd"
+  - Zayna Chaker
+  - Philippe Lacube
+  - Jie Xu
+  - Racha Fayad
+  - "Francine C\xF4t\xE9"
+  - Patrick Even
+  - Martin Holzenberger
+  publisher: Endocrinology
+  date: '2017-05-10'
+  link: https://doi.org/gbpkwd
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aal3839
+  title: Hypothalamic regulation of regionally distinct adult neural stem cells and
+    neurogenesis
+  authors:
+  - Alex Paul
+  - Zayna Chaker
+  - Fiona Doetsch
+  publisher: Science
+  date: '2017-06-30'
+  link: https://doi.org/gbmj6s
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/wdev.248
+  title: 'A mosaic world: puzzles revealed by adult neural stem cell heterogeneity'
+  authors:
+  - Zayna Chaker
+  - Paolo Codega
+  - Fiona Doetsch
+  publisher: WIREs Developmental Biology
+  date: '2016-09-20'
+  link: https://doi.org/gfvmcw
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2016.02.008
+  title: Hypothalamic neurogenesis persists in the aging brain and is controlled by
+    energy-sensing IGF-I pathway
+  authors:
+  - Zayna Chaker
+  - Caroline George
+  - Marija Petrovska
+  - Jean-Baptiste Caron
+  - Philippe Lacube
+  - "Isabelle Caill\xE9"
+  - Martin Holzenberger
+  publisher: Neurobiology of Aging
+  date: '2016-05-01'
+  link: https://doi.org/g97drp
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/acel.12365
+  title: "Suppression of <scp>IGF</scp>\u2010I signals in neural stem cells enhances\
+    \ neurogenesis and olfactory function during aging"
+  authors:
+  - Zayna Chaker
+  - "Saba A\xEFd"
+  - Hugues Berry
+  - Martin Holzenberger
+  publisher: Aging Cell
+  date: '2015-07-29'
+  link: https://doi.org/gcbq4r
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/jneurosci.0343-15.2015
+  title: "Blocking IGF Signaling in Adult Neurons Alleviates Alzheimer's Disease Pathology\
+    \ through Amyloid-\u03B2 Clearance"
+  authors:
+  - "G\xE9raldine Gontier"
+  - Caroline George
+  - Zayna Chaker
+  - Martin Holzenberger
+  - "Saba A\xEFd"
+  publisher: The Journal of Neuroscience
+  date: '2015-08-19'
+  link: https://doi.org/f7thp9
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scr.2014.08.005
+  title: More efficient repair of DNA double-strand breaks in skeletal muscle stem
+    cells compared to their committed progeny
+  authors:
+  - Leyla Vahidi Ferdousi
+  - Pierre Rocheteau
+  - Romain Chayot
+  - Benjamin Montagne
+  - Zayna Chaker
+  - Patricia Flamant
+  - Shahragim Tajbakhsh
+  - Miria Ricchetti
+  publisher: Stem Cell Research
+  date: '2014-11-01'
+  link: https://doi.org/gfwnsx
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/acel.12145
+  title: "Longevity effect of <scp>IGF</scp>\u20101<scp>R</scp><sup>+/\u2212</sup>\
+    \ mutation depends on genetic background\u2010specific receptor activation"
+  authors:
+  - Jie Xu
+  - "G\xE9raldine Gontier"
+  - Zayna Chaker
+  - Philippe Lacube
+  - "Jo\xEBlle Dupont"
+  - Martin Holzenberger
+  publisher: Aging Cell
+  date: '2013-09-11'
+  link: https://doi.org/gcbqv3
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0048071
+  title: Knockout of Insulin-Like Growth Factor-1 Receptor Impairs Distal Lung Morphogenesis
+  authors:
+  - Ralph Epaud
+  - Flore Aubey
+  - Jie Xu
+  - Zayna Chaker
+  - Maud Clemessy
+  - Alexandre Dautin
+  - "Karm\xE8ne Ahamed"
+  - Monique Bonora
+  - Nadia Hoyeau
+  - "Jean-Fran\xE7ois Fl\xE9jou"
+  - Arnaud Mailleux
+  - Annick Clement
+  - Alexandra Henrion-Caude
+  - Martin Holzenberger
+  publisher: PLoS ONE
+  date: '2012-11-06'
+  link: https://doi.org/g97drq
+  orcid: 0000-0001-9059-4866
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
+  authors:
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
