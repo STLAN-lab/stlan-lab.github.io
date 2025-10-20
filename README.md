@@ -5,6 +5,6 @@
 
   # STLAN-lab's Website
 
-  Visit **[stlan-lab.github.io/stlan-lab](https://stlan-lab.github.io/stlan-lab)** 🚀
+  Visit **[stlan-lab.github.io](https://stlan-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
