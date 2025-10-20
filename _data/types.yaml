@@ -6,6 +6,22 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+researcher_cr:
+  icon: fa-solid fa-microscope
+  description: Researcher (CR)
+
+research_engineer:
+  icon: fa-solid fa-glasses
+  description: Research Engineer (IR)
+
+iehc_engineer:
+  icon: fa-solid fa-glasses
+  description: IEHC
+
+study_engineer:
+  icon: fa-solid fa-glasses
+  description: Study Engineer (IE)
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -23,7 +39,7 @@ programmer:
   description: Programmer
 
 mascot:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-paw
   description: Mascot
 
 # general
@@ -32,6 +48,11 @@ link:
   icon: fa-solid fa-globe
   text: Link
   tooltip: Link
+
+igfl:
+  icon: fa-solid fa-globe
+  text: IGFL Page
+  tooltip: IGFL
 
 website:
   icon: fa-solid fa-globe

@@ -1,47 +1,30 @@
-- title: Cool Dataset
+- title: OBSenCe
   subtitle: a subtitle
-  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Determining if pregnancy activates a developmental-like senescence program in the adult mother brain.
   tags:
-    - resource
+    - PhD Project
 
-- title: Cool Package
+- title: CROSSNICHE
   subtitle: a subtitle
-  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Identifying shared and distinct molecular mechanisms of adult neurogenesis across the two neurogenic niches.
   tags:
-    - resource
+    - PhD Project
 
-- title: Cool Tutorial
+- title: SmokingBrains
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  description: Investigating the effects of smoking on adult neurogenesis in the mouse brain.
+  tags:
+    - PhD Project
+
+- title: Zebrafish
+  subtitle: a subtitle
+  image: images/photo.jpg
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  

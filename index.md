@@ -1,21 +1,21 @@
 ---
+title: Spatio-Temporal Logic of Adult Neurogenesis
 ---
 
-# Lab Website Template
+# Spatio-Temporal Logic of Adult Neurogenesis - STLAN Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+In the lab, we are investigating the cellular and molecular mechanisms allowing regionally-distinct pools of NSCs to coordinate their behavior in space (across niches) and time (from embryo to different phases in adulthood), under specific physiological and pathological conditions. Our work aims to better understand and eventually harness adult NSC potential, shedding new light onto the functional importance of adult neurogenesis for adaptive brain remodeling. We are following a developmental, comparative and circuit research perspective, using mouse and Zebrafish as two contrasting, yet complementary, model systems.
 
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  type="igfl"
+  link="https://igfl.ens-lyon.fr/equipes/zayna-chaker"
 %}
 {%
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="marcouderzo"
 %}
 
 {% include section.html %}
@@ -24,12 +24,11 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Discover our Research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -39,40 +38,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/background.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -87,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text

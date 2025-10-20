@@ -1,10 +1,8 @@
 ---
-title: Example post 1
-author: sarah-johnson
-tags:
-  - biology
-  - medicine
-  - big data
+name: Gina Melgar
+image: images/members/gina_melgar.jpg
+role: phd
+affiliation: ENS de Lyon
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
