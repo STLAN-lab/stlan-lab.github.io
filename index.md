@@ -15,7 +15,7 @@ In the lab, we are investigating the cellular and molecular mechanisms allowing 
   include button.html
   type="github"
   text="On GitHub"
-  link="marcouderzo"
+  link="STLAN-lab"
 %}
 
 {% include section.html %}
