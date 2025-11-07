@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you'd like to work with us, get in touch:
+We're located next to the ENS de Lyon "Monod" campus. If you'd like to collaborate with us, get in touch:
 
 {%
   include button.html
