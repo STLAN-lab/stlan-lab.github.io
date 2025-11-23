@@ -7,6 +7,7 @@ title: Spatio-Temporal Logic of Adult Neurogenesis
 {%
   include figure.html
   image="images/igfl_logo.png"
+  width="30%"
 %}
 
 
