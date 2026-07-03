@@ -29,12 +29,17 @@ In mice, NSC regional identity is inherited from embryonic times and faithfully 
 %}
 
 ## 3. Reveal a circuit-level coordination of adult NSC behavior
-Recently, it was demonstrated that quiescent NSC pools in the adult V-SVZ are selectively recruited in response to physiological state, under control of targeted long-range neuronal innervation. Similarly, DG neurogenesis was shown to be directly responsive to distant hypothalamic projections, which play pivotal roles in fine tuning cell replacement dynamics under pathological contexts. These data strongly suggest a specific circuit regulation of NSC behavior in both niches.
 
-{%
-  include figure.html
-  image="images/research_axis3.png"
-%}
+<div class="row align-items-center">
+  <div class="col-md-7">
+    <p>
+      Recently, it was demonstrated that quiescent NSC pools in the adult V-SVZ are selectively recruited in response to physiological state, under control of targeted long-range neuronal innervation. Similarly, DG neurogenesis was shown to be directly responsive to distant hypothalamic projections, which play pivotal roles in fine tuning cell replacement dynamics under pathological contexts. These data strongly suggest a specific circuit regulation of NSC behavior in both niches.
+    </p>
+  </div>
+  <div class="col-md-5">
+    {% include figure.html image="images/research_axis3.png" %}
+  </div>
+</div>
 
 ## 4. Comparative analysis to better understand transient neurogenesis in mammals
 Besides constitutive neurogenesis, regionally-defined subpopulations of NSCs in the adult V-SVZ produce transient waves of functionally-relevant interneurons in response to physiological needs, such as pregnancy and motherhood. The question of whether specific NSCs are dedicated to generate behaviorally-relevant transient neurons, or whether they are the same as those sustaining continuous neurogenesis under homeostasis, is still totally unexplored. We hypothesize that transient neurogenesis in mammals is a powerful strategy favoring network plasticity and adaptability at the expense of growth and regeneration, and will test that by comparing Mouse and Zebrafish homologous neurogenic niches.
