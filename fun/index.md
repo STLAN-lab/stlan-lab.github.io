@@ -7,6 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Lab Fun
 
+## Fighting the Heatwave with a Gelato! - July 2026
+
+{%
+  include figure.html
+  image="images/labfun/lunch_summer.jpg"
+%}
+
+
+## "Summer is Here" Lab Lunch - June 2026
+
+{%
+  include figure.html
+  image="images/labfun/lunch_summer.jpg"
+%}
 
 ## Raclette Party! - January 2026
 
