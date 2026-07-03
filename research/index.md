@@ -30,13 +30,13 @@ In mice, NSC regional identity is inherited from embryonic times and faithfully 
 
 ## 3. Reveal a circuit-level coordination of adult NSC behavior
 
-<div class="row align-items-center">
-  <div class="col-md-7">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
+  <div style="flex: 1 1 55%; min-width: 300px;">
     <p>
       Recently, it was demonstrated that quiescent NSC pools in the adult V-SVZ are selectively recruited in response to physiological state, under control of targeted long-range neuronal innervation. Similarly, DG neurogenesis was shown to be directly responsive to distant hypothalamic projections, which play pivotal roles in fine tuning cell replacement dynamics under pathological contexts. These data strongly suggest a specific circuit regulation of NSC behavior in both niches.
     </p>
   </div>
-  <div class="col-md-5">
+  <div style="flex: 1 1 35%; min-width: 250px;">
     {% include figure.html image="images/research_axis3.png" %}
   </div>
 </div>
