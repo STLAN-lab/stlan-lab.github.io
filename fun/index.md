@@ -11,7 +11,7 @@ nav:
 
 {%
   include figure.html
-  image="images/labfun/gelato.jpg"
+  image="images/labfun/gelato_outing.jpg"
 %}
 
 
