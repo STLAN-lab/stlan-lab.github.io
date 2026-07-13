@@ -7,6 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Lab Fun
 
+
+## So much fun at FENS Forum 2026 (Barcelona)! - July 2026
+
+FENS Forum 2026 was so much fun in Barcelona. Here's how we spent our evenings:
+
+{%
+  include figure.html
+  image="images/fens_2026_dinner.JPG"
+%}
+
+
 ## Fighting the Heatwave with a Gelato! - July 2026
 
 {%
