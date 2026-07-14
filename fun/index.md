@@ -12,10 +12,26 @@ nav:
 
 FENS Forum 2026 was so much fun in Barcelona. Here's how we spent our evenings:
 
-{%
-  include figure.html
-  image="images/fens_2026_dinner.JPG"
-%}
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
+  <div style="flex: 1 1 45%; min-width: 250px;">
+    {% include figure.html image="images/labfun/fens_2026_dinner.JPG" %}
+  </div>
+  <div style="flex: 1 1 45%; min-width: 250px;">
+    {% include figure.html image="images/labfun/fens_tapas.JPG" %}
+  </div>
+</div>
+
+The "Jump the FENS" event at Razzmatazz was incredible!
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
+  <div style="flex: 1 1 45%; min-width: 250px;">
+    {% include figure.html image="images/fens_razzmatazz.JPG" %}
+  </div>
+  <div style="flex: 1 1 45%; min-width: 250px;">
+    {% include figure.html image="images/razzmatazz_rooftop.JPG" %}
+  </div>
+</div>
 
 
 ## Fighting the Heatwave with a Gelato! - July 2026
