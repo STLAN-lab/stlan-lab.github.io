@@ -26,10 +26,10 @@ The "Jump the FENS" event at Razzmatazz was incredible!
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
   <div style="flex: 1 1 45%; min-width: 250px;">
-    {% include figure.html image="images/fens_razzmatazz.JPG" %}
+    {% include figure.html image="images/labfun/fens_razzmatazz.JPG" %}
   </div>
   <div style="flex: 1 1 45%; min-width: 250px;">
-    {% include figure.html image="images/razzmatazz_rooftop.JPG" %}
+    {% include figure.html image="images/labfun/razzmatazz_rooftop.JPG" %}
   </div>
 </div>
 
