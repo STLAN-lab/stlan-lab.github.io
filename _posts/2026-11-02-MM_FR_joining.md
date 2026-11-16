@@ -3,6 +3,7 @@ title: Marilyne Malbouyres is joining the team as a Research Engineer, and Flore
 author: Zayna Chaker
 tags:
   - NewMember
+image: images/MM_FR_joinning.jpeg
 ---
 
 We're happy to announce that Marilyne Malbouyres, who previously worked in the Ruggiero team, is joining our team as a CNRS Research Engineer! Congratulations to her!
