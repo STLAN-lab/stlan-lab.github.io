@@ -15,21 +15,20 @@
     {% assign image = post.image | relative_url | uri_escape %}
 
     {% if image %}
-      <a
-  href="{{ url }}"
-  class="post-excerpt-image"
-  style="display: flex; justify-content: center; align-items: center; height: 100%;"
-  aria-label="{{ title | default: "excerpt link" | regex_strip }}"
->
-        <img
-          src="{{ image }}"
-          alt="{{ title | default: "excerpt image" | regex_strip }}"
-          loading="lazy"
-          style="width: 180px; height: 120px; object-fit: cover; display: block; margin: 0 auto;"
-          {% include fallback.html %}
-        >
-      </a>
-    {% endif %}
+  <a
+    href="{{ url }}"
+    class="post-excerpt-image"
+    aria-label="{{ title | default: "excerpt link" | regex_strip }}"
+  >
+    <img
+      src="{{ image }}"
+      alt="{{ title | default: "excerpt image" | regex_strip }}"
+      loading="lazy"
+      style="width: 180px; height: 120px; object-fit: cover; display: block;"
+      {% include fallback.html %}
+    >
+  </a>
+{% endif %}
 
     <div class="post-excerpt-text">
       <a href="{{ url }}">{{ title }}</a>
