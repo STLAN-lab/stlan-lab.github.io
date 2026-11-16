@@ -10,3 +10,8 @@ We're happy to announce that Marilyne Malbouyres, who previously worked in the R
 We are also delighted to welcome Florence Ruggiero, who is joining our team as an Emeritus Researcher.
 
 Their arrival is great news for the whole team and will strengthen our research capacity and activities around the zebrafish model. We are very happy to welcome them both!
+
+{% 
+include figure.html 
+image="images/MM_FR_joinning.jpeg" 
+%}
