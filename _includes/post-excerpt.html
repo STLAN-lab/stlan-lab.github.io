@@ -16,10 +16,11 @@
 
     {% if image %}
       <a
-        href="{{ url }}"
-        class="post-excerpt-image"
-        aria-label="{{ title | default: "excerpt link" | regex_strip }}"
-      >
+  href="{{ url }}"
+  class="post-excerpt-image"
+  style="display: flex; justify-content: center; align-items: center;"
+  aria-label="{{ title | default: "excerpt link" | regex_strip }}"
+>
         <img
           src="{{ image }}"
           alt="{{ title | default: "excerpt image" | regex_strip }}"
