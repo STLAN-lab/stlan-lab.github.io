@@ -67,7 +67,7 @@ In the lab, we are investigating the cellular and molecular mechanisms allowing 
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/group_picture.jpg"
   link="team"
   title="Our Team"
   text=text
