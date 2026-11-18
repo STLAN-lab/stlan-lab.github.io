@@ -97,7 +97,7 @@ orcid:
   icon: fa-brands fa-orcid
   text: ORCID
   tooltip: ORCID
-  link: https://orcid.org/$VALUE
+  link: $VALUE
 
 google-scholar:
   icon: fa-brands fa-google
