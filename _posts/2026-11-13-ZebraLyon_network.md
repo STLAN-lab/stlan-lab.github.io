@@ -14,14 +14,11 @@ On this occasion, Léa and Marilyne presented the research activities conducted 
 We are pleased to join this network and look forward to fostering scientific exchanges and new collaborations!
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
-  <div style="flex: 1 1 30%; min-width: 200px;">
-    {% include figure.html image="images/zebrafish_ms_1.jpeg" %}
+  <div style="flex: 1 1 45%; min-width: 250px;">
+    {% include figure.html image="image="images/zebrafish_ms_1.jpeg" %}
   </div>
-  <div style="flex: 1 1 30%; min-width: 200px;">
-    {% include figure.html image="images/zebrafish_ms_2.jpeg" %}
-  </div>
-  <div style="flex: 1 1 30%; min-width: 200px;">
-    {% include figure.html image="images/zebrafish_ms_3.jpeg" %}
+  <div style="flex: 1 1 45%; min-width: 250px;">
+    {% include figure.html image="image="images/zebrafish_ms_2.jpeg" %}
   </div>
 </div>
 
