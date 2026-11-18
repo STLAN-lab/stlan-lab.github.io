@@ -10,7 +10,12 @@ Her postdoctoral research focused on zebrafish models of amyotrophic lateral scl
 In 2026, Léa returned to France and joined the laboratory as a postdoctoral researcher. Her current work centers on introducing her favorite model organism-the zebrafish_into the lab, with a particular focus on adult neurogenesis in the physiological context of reproductive behavior. She is particularly interested in this species’ remarkable proliferative and regenerative capacities.
 Outside the lab, Léa enjoys browsing bookstores for new reads, hiking in nature, spending time by the ocean, and practicing watercolor painting!
 
-ORCID : https://orcid.org/0000-0002-7115-7342
-
-
+<p>
+  <a href="https://orcid.org/0000-0002-7115-7342"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color: #0072CE; text-decoration: underline;">
+    ORCID
+  </a>
+</p>
 
