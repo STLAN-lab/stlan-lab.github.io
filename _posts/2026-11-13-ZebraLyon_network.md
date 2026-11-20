@@ -4,7 +4,7 @@ author: Violaine Hubert
 tags:
   - Network
   - Fish models
-image: images/20261120zebralyon.jpeg
+image: images/20261120zebralyon.jpg
 ---
 
 The ST-LAN team took part in the launch event of the Zebra Lyon network, a collaborative initiative bringing together zebrafish research teams in Lyon.
