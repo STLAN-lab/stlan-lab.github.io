@@ -1,7 +1,5 @@
-
 ---
 title: News
-permalink: /news/
 nav:
   order: 3
   tooltip: Latest news from the lab
