@@ -1,5 +1,5 @@
 ---
-title: Marco has Won the 2026 European Journal of Neuroscience Image Competition (Artistic Category)!
+title: Marco has Won the 2026 European Journal of Neuroscience Image Competition!
 author: Marco Uderzo
 tags:
   - Prize
