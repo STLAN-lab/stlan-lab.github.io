@@ -3,7 +3,6 @@ title: The ST-LAN Lab joins the "ZebraLyon" network
 author: Violaine Hubert
 tags:
   - network
-  - Fish models
 image: images/20261120zebralyon.jpg
 ---
 
