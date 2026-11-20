@@ -9,34 +9,42 @@
   {% assign post = include %}
 {% endif %}
 
+{% assign url = post.url | relative_url | uri_escape %}
+{% assign title = post.title %}
+{% assign image = post.image | relative_url | uri_escape %}
+
 <div class="post-excerpt-container">
-  <div class="post-excerpt">
-    {% assign url = post.url | relative_url | uri_escape %}
-    {% assign title = post.title %}
-    {% assign image = post.image | relative_url | uri_escape %}
+  <div class="post-excerpt" style="display: flex; align-items: center; gap: 18px; padding: 12px 0;">
 
     {% if post.image %}
       <a
         href="{{ url }}"
-        class="post-excerpt-image"
-        aria-label="{{ title | default: "excerpt link" | regex_strip }}"
+        style="display: block; flex: 0 0 110px;"
+        aria-label="{{ title | default: 'excerpt link' | regex_strip }}"
       >
         <img
           src="{{ image }}"
-          alt="{{ title | default: "excerpt image" | regex_strip }}"
+          alt="{{ title | default: 'excerpt image' | regex_strip }}"
           loading="lazy"
+          style="width: 110px; height: 85px; object-fit: cover; border-radius: 5px;"
           {% include fallback.html %}
         >
       </a>
     {% endif %}
 
-    <div class="post-excerpt-text">
-      <a href="{{ url }}">{{ title }}</a>
+    <div class="post-excerpt-text" style="flex: 1;">
+      <div style="font-weight: 600; margin-bottom: 5px;">
+        <a href="{{ url }}">{{ title }}</a>
+      </div>
 
-      {% include post-info.html
-        author=post.author
-        published=post.date
-      %}
+      <div style="font-size: 0.85em; color: #777; margin-bottom: 5px;">
+        {{ post.date | date: "%B %d, %Y" }}
+      </div>
+
+      <a href="{{ url }}" style="font-size: 0.9em;">
+        Read more →
+      </a>
     </div>
+
   </div>
 </div>
