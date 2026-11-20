@@ -3,7 +3,7 @@ title: Zayna is part of the 2026 cohort of FENS-Kavli Scholars!
 author: Violaine Hubert
 tags:
   - Network
-
+image: images/20261120FENSKhavli.png
 ---
 
 
