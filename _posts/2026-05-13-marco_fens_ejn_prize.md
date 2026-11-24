@@ -3,7 +3,7 @@ title: Marco has Won the 2026 European Journal of Neuroscience Image Competition
 author: Marco Uderzo
 tags:
   - Prize
-  - image: images/20261124_MU_EJN.png
+image: images/20261124_MU_EJN.png
 ---
 
 We're happy to announce that Marco Uderzo's artwork, "Into the Brain's Deep Unknown", was chosen as the winner of the 2026 edition of the European Journal of Neuroscience (EJN) Image Competition, in the artistic category.
