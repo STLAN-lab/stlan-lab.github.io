@@ -1,5 +1,5 @@
 ---
-title: Léa Lescouzères is joining the team as a postdoc with a FRM grant!
+title: Léa Lescouzères is joining the team as a postdoc with a FRM grant!    
 author: Zayna Chaker
 tags:
   - NewMember
