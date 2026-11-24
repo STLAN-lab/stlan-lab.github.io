@@ -4,6 +4,7 @@ author: Zayna Chaker
 tags:
   - NewMember
   - Grant
+image: images/members/lea_lescouzeres.jpg
 ---
 
 We're happy to announce that Léa Lescouzères is joining our team with a FRM grant! Congratulations to her!
